@@ -1,0 +1,2 @@
+name = "vidit"
+print(name)
